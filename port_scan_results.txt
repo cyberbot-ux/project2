@@ -1,3 +1,6 @@
-Port scan results for 192.168.0.13 on 2025-06-09 22:15:33
-Time taken to scan ports: 163.97 seconds
+Port scan results for 142.251.111.139 on 2025-06-09 22:20:21
+Time taken to scan ports: 93.76 seconds
+--------------------------------------------------
+Port scan results for 45.33.32.156 on 2025-06-09 22:31:55
+Time taken to scan ports: 122.03 seconds
 --------------------------------------------------

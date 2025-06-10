@@ -1,0 +1,4 @@
+Port scan results for 45.33.32.156 on 2025-06-10 00:03:29
+Time taken to scan ports: 13.89 seconds
+Ports found open: [22, 80]
+--------------------------------------------------
